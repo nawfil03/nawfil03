@@ -49,8 +49,8 @@ I build full-stack products and AI systems — from RAG pipelines and LLM workfl
 | Project | What it is | Stack |
 |---|---|---|
 | [**Fake Product Detection (MSc Thesis)**](https://github.com/nawfil03/fake-product-detection--mdx-thesis-) | ML system that flags counterfeit products using an ensemble (LR, RF, GB, XGBoost + fusion) with SHAP explainability | Python, scikit-learn, XGBoost |
-| [**Investor Dashboard**](https://github.com/nawfil03/investor-dashboard-new) | KPI extraction and financial projections pipeline feeding an investor-facing dashboard | TypeScript, Python, SQL |
-| [**n8n × HeyGen Automation**](https://github.com/nawfil03/n8n-heygen) | Workflow that automates AI avatar video generation | n8n, HeyGen API |
+| [**Prism Proof Desk**](https://github.com/nawfil03/investor-dashboard-new) | Internal analytics desk for Aqademiq: live Postgres metrics, research checklist and a Gemini-powered Ask box | Next.js, TypeScript, Python, SQL |
+| [**n8n VCard AI Assistant**](https://github.com/nawfil03/n8n-heygen) | RAG chat assistant (Pinecone + Mistral) that answers questions and books meetings via Calendly | n8n, Pinecone, Mistral, Calendly API |
 | [**Portfolio**](https://github.com/nawfil03/portfolio) | My personal portfolio site | JavaScript, HTML, CSS |
 
 ### 📊 GitHub stats
